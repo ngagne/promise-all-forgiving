@@ -1,0 +1,27 @@
+{
+  "name": "promise-all-forgiving",
+  "version": "1.0.0",
+  "description": "Promise.all() without the fail-fast behavior",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngagne/promise-all-forgiving.git"
+  },
+  "author": "Nick Gagne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngagne/promise-all-forgiving/issues"
+  },
+  "homepage": "https://github.com/ngagne/promise-all-forgiving#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "keywords": [
+    "Promise",
+    "Promise.all",
+    "fail-fast"
+  ]
+}
