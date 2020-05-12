@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ngagne/promise-all-forgiving#readme",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^6.2.3"
   },
   "keywords": [
     "Promise",
