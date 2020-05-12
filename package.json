@@ -1,6 +1,6 @@
 {
   "name": "promise-all-forgiving",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise.all() without the fail-fast behavior",
   "main": "index.js",
   "scripts": {
