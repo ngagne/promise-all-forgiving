@@ -1,6 +1,6 @@
 {
   "name": "promise-all-forgiving",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Promise.all() without the fail-fast behavior",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/ngagne/promise-all-forgiving#readme",
   "devDependencies": {
-    "mocha": "^10.0.0"
+    "mocha": "^11.3.0"
+  },
+  "overrides": {
+    "diff": "8.0.3",
+    "serialize-javascript": "7.0.4"
   },
   "keywords": [
     "Promise",
